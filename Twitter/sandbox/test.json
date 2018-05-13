@@ -1,1 +1,130 @@
-{"search_metadata": {"refresh_url": "?since_id=995171984429400064&q=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88&lang=ja&result_type=recent&include_entities=1", "max_id": 995171984429400064, "completed_in": 0.059, "since_id_str": "0", "since_id": 0, "query": "%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88", "count": 1, "max_id_str": "995171984429400064", "next_results": "?max_id=995171984429400063&q=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88&lang=ja&count=1&include_entities=1&result_type=recent"}, "statuses": [{"retweeted": false, "user": {"url": "https://t.co/sY1neqZPbZ", "is_translator": false, "follow_request_sent": false, "listed_count": 44, "friends_count": 10, "notifications": false, "is_translation_enabled": false, "entities": {"url": {"urls": [{"url": "https://t.co/sY1neqZPbZ", "indices": [0, 23], "display_url": "Go2Jobs.xyz", "expanded_url": "http://www.Go2Jobs.xyz"}]}, "description": {"urls": [{"url": "https://t.co/j3WcnjCkf8", "indices": [108, 131], "display_url": "Go2Jobs.com", "expanded_url": "http://Go2Jobs.com"}]}}, "translator_type": "none", "profile_background_tile": true, "lang": "en", "followers_count": 526, "location": "Tokyo, Japan", "profile_sidebar_fill_color": "DAECF4", "verified": false, "statuses_count": 40151, "time_zone": "Tokyo", "profile_image_url": "http://pbs.twimg.com/profile_images/589100215082319872/MAuoJ1kw_normal.png", "description": "Go2Tokyo: Jobs - All the latest Jobs, Careers, Employment & Recruitment in Tokyo, Japan! Search & Post Jobs https://t.co/j3WcnjCkf8", "default_profile": false, "geo_enabled": true, "profile_banner_url": "https://pbs.twimg.com/profile_banners/113990751/1429287399", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095119905/be20411b41fc577ad43c1b2a6a3d2ace.jpeg", "profile_use_background_image": true, "created_at": "Sat Feb 13 18:33:23 +0000 2010", "protected": false, "default_profile_image": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/589100215082319872/MAuoJ1kw_normal.png", "profile_background_color": "C6E2EE", "following": false, "contributors_enabled": false, "id": 113990751, "id_str": "113990751", "screen_name": "Tokyo_Jobs", "name": "Tokyo Jobs", "profile_link_color": "1F98C7", "profile_sidebar_border_color": "000000", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095119905/be20411b41fc577ad43c1b2a6a3d2ace.jpeg", "utc_offset": 32400, "favourites_count": 0, "profile_text_color": "663B12", "has_extended_profile": false}, "in_reply_to_status_id": null, "text": "\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8 / Data Scientist: Tokyo - \u793e\u540d\u975e\u516c\u958b \u696d\u52d9\u5185\u5bb9 You will be part of team to build cognitive predictive solutions b\u2026 https://t.co/wd2DKYw9DL", "place": null, "lang": "ja", "truncated": true, "in_reply_to_user_id_str": null, "favorite_count": 0, "geo": null, "retweet_count": 0, "created_at": "Sat May 12 05:21:05 +0000 2018", "contributors": null, "is_quote_status": false, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "coordinates": null, "entities": {"user_mentions": [], "symbols": [], "urls": [{"url": "https://t.co/wd2DKYw9DL", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/995171984429400064"}], "hashtags": []}, "id": 995171984429400064, "id_str": "995171984429400064", "possibly_sensitive": false, "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>", "in_reply_to_screen_name": null, "metadata": {"iso_language_code": "ja", "result_type": "recent"}, "favorited": false}]}
+{
+  "search_metadata": {
+    "refresh_url": "?since_id=995171984429400064&q=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88&lang=ja&result_type=recent&include_entities=1",
+    "max_id": 995171984429400064,
+    "completed_in": 0.059,
+    "since_id_str": "0",
+    "since_id": 0,
+    "query": "%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88",
+    "count": 1,
+    "max_id_str": "995171984429400064",
+    "next_results": "?max_id=995171984429400063&q=%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88&lang=ja&count=1&include_entities=1&result_type=recent"
+  },
+  "statuses": [
+    {
+      "retweeted": false,
+      "user": {
+        "url": "https://t.co/sY1neqZPbZ",
+        "is_translator": false,
+        "follow_request_sent": false,
+        "listed_count": 44,
+        "friends_count": 10,
+        "notifications": false,
+        "is_translation_enabled": false,
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/sY1neqZPbZ",
+                "indices": [
+                  0,
+                  23
+                ],
+                "display_url": "Go2Jobs.xyz",
+                "expanded_url": "http://www.Go2Jobs.xyz"
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/j3WcnjCkf8",
+                "indices": [
+                  108,
+                  131
+                ],
+                "display_url": "Go2Jobs.com",
+                "expanded_url": "http://Go2Jobs.com"
+              }
+            ]
+          }
+        },
+        "translator_type": "none",
+        "profile_background_tile": true,
+        "lang": "en",
+        "followers_count": 526,
+        "location": "Tokyo, Japan",
+        "profile_sidebar_fill_color": "DAECF4",
+        "verified": false,
+        "statuses_count": 40151,
+        "time_zone": "Tokyo",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/589100215082319872/MAuoJ1kw_normal.png",
+        "description": "Go2Tokyo: Jobs - All the latest Jobs, Careers, Employment & Recruitment in Tokyo, Japan! Search & Post Jobs https://t.co/j3WcnjCkf8",
+        "default_profile": false,
+        "geo_enabled": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/113990751/1429287399",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095119905/be20411b41fc577ad43c1b2a6a3d2ace.jpeg",
+        "profile_use_background_image": true,
+        "created_at": "Sat Feb 13 18:33:23 +0000 2010",
+        "protected": false,
+        "default_profile_image": false,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/589100215082319872/MAuoJ1kw_normal.png",
+        "profile_background_color": "C6E2EE",
+        "following": false,
+        "contributors_enabled": false,
+        "id": 113990751,
+        "id_str": "113990751",
+        "screen_name": "Tokyo_Jobs",
+        "name": "Tokyo Jobs",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "000000",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095119905/be20411b41fc577ad43c1b2a6a3d2ace.jpeg",
+        "utc_offset": 32400,
+        "favourites_count": 0,
+        "profile_text_color": "663B12",
+        "has_extended_profile": false
+      },
+      "in_reply_to_status_id": null,
+      "text": "データサイエンティスト / Data Scientist: Tokyo - 社名非公開 業務内容 You will be part of team to build cognitive predictive solutions b… https://t.co/wd2DKYw9DL",
+      "place": null,
+      "lang": "ja",
+      "truncated": true,
+      "in_reply_to_user_id_str": null,
+      "favorite_count": 0,
+      "geo": null,
+      "retweet_count": 0,
+      "created_at": "Sat May 12 05:21:05 +0000 2018",
+      "contributors": null,
+      "is_quote_status": false,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "coordinates": null,
+      "entities": {
+        "user_mentions": [],
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/wd2DKYw9DL",
+            "indices": [
+              117,
+              140
+            ],
+            "display_url": "twitter.com/i/web/status/9…",
+            "expanded_url": "https://twitter.com/i/web/status/995171984429400064"
+          }
+        ],
+        "hashtags": []
+      },
+      "id": 995171984429400064,
+      "id_str": "995171984429400064",
+      "possibly_sensitive": false,
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_screen_name": null,
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "favorited": false
+    }
+  ]
+}
