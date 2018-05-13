@@ -2,3 +2,4 @@ config.py
 sandbox/config.py
 __pycache__
 sandbox/__pycache__
+sandbox/test.json
