@@ -1,0 +1,5 @@
+__pycache__/
+config.py
+sandbox/__pycache__
+sandbox/config.py
+sandbox/test.json
